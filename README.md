@@ -12,5 +12,6 @@ The results of the stock analysis will show that 2017 was a better performance y
 Summary
 
 An advantage of refactoring code is that you can work faster and more efficient.  You can use patterns easier in refactoring code.  Instead of going through each cell or chart individually you can program what ever repeating code you need.  You can also create message boxes to remind you of things or make it easier for people who are less familiar with excel.  Some disadvantages are not knowing the proper code you may need or a code that hasn’t been invented yet that you are able to look up.   These advantages apply to refactoring the original VBA script because we were able to make it faster lo look up information and more efficient.      
-![VBA_Challenge_2017](https://user-images.githubusercontent.com/92127589/138605479-fb20f9fb-0dec-4eae-bce8-033a4346bb7d.png)
-![VBA_Challenge_2018](https://user-images.githubusercontent.com/92127589/138605480-d08fbea3-d872-45ac-b2bd-c4b689bf3975.png)
+
+![Screenshot (63)](https://user-images.githubusercontent.com/92127589/143269380-084d3452-463c-48e9-b443-632d223b6e0e.png)
+![Screenshot (62)](https://user-images.githubusercontent.com/92127589/143269417-47eaa237-9765-4553-8162-4070cf2d6282.png)
